@@ -20,6 +20,7 @@ your-gallery/
 1. **Clone this repo:**
    ```bash
    git clone https://github.com/zuiraito/stooru.git
+   cd stooru/
    ```
 
 2. **Add your images:**
