@@ -1,19 +1,19 @@
 [
   {
     "id": 1,
-    "filename": "image-1.png",
+    "filename": "image-1.jpg",
     "title": "Example image 1",
     "tags": ["tag1", "tag2", "tag3"]
   },
   {
     "id": 2,
-    "filename": "image-2.png",
+    "filename": "image-2.jpg",
     "title": "Example image 2",
     "tags": ["tag3", "tag4", "tag5"]
   },
   {
     "id": 3,
-    "filename": "image-3.png",
+    "filename": "image-3.jpg",
     "title": "Example image with text",
     "text": "This is an example text",
     "tags": ["tag2", "tag4", "tag6"]
