@@ -8,8 +8,9 @@ your-gallery/
 ├── index.html          # Main HTML file
 ├── data.json           # Image metadata and tags
 ├── images/             # Directory for your images
-│   ├── image001.jpg
-│   ├── image002.jpg
+│   ├── image-1.jpg
+│   ├── DCM000135.png
+│   ├── silly-cat.jpeg
 │   └── ...
 └── README.md          # This file
 ```
