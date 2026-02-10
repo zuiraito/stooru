@@ -16,16 +16,16 @@ your-gallery/
 
 ## Setup Instructions
 
-1. **Create the images directory:**
+1. **Clone this repo:**
    ```bash
-   mkdir images
+   git clone https://github.com/zuiraito/stooru.git
    ```
 
 2. **Add your images:**
    - Place all your images in the `images/` directory
    - Supported formats: jpg, jpeg, png, gif, webp (todo: video formats)
 
-3. **Adding Images and editing Tags:**
+3. **Linking images and adding Tags:**
    Open the `data.json` file.
    Entry Template:
    ```json
