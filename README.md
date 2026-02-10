@@ -59,3 +59,5 @@ This is a static site, so you can host it anywhere:
 
 ## TODOs
 - [ ] Add support for videos
+- [ ] A shell script for easy image upload and tagging
+- [ ] Save the current tag selection and full screen image in the url
