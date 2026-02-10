@@ -1,8 +1,7 @@
 # stooru
 A simple static tag-based image gallery heavily inspired by booru image boards
 
-<img width="1755" height="1140" alt="image" src="https://github.com/user-attachments/assets/a9855608-11f5-4538-aa01-303d7181167d" />
-
+<img width="1806" height="807" alt="image" src="https://github.com/user-attachments/assets/ba32a29f-db44-4f29-96a0-bcbefeef22b8" />
 
 ## File Structure
 
